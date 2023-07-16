@@ -14,7 +14,7 @@
   | [AWS Components & Projects](https://github.com/rumeysakdogan/AWS/tree/master/hands-on) | Demos for different AWS Services including IAM, EC2, CFN, S3, EBS, ELB, ASG, AWS CLI, RDS, DynamoDB, Boto3, SNS, SQS, CloudWatch, Cognito, EKS, ECR, ECS, Fargate |
   | [Kubernetes](https://github.com/akash-p-07/Kubernetes.git) | K8s components and steps to set up components like Services, Pods, Schedulers, Load Balancer, Deployment, Persistant Volumes, Node Selectors, Cluster along with yaml files |
   | [Docker](https://github.com/rumeysakdogan/petclinic-microservices-with-db) | Java Microservices Project|
-  | [Ansible & Chefp](https://github.com/rumeysakdogan/DevOps_Workshop/tree/master/hands-on) | Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven |
+  | [Ansible & Chef ](https://github.com/rumeysakdogan/DevOps_Workshop/tree/master/hands-on) | Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven |
   | [Linux-Workshop](https://github.com/rumeysakdogan/Linux-Workshop) | Linux |
   | [Terraform](https://github.com/rumeysakdogan/Python_Workshop) | Python |
   
