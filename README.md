@@ -15,7 +15,7 @@
   | [Kubernetes](https://github.com/akash-p-07/Kubernetes.git) | K8s components and steps to set up components like Services, Pods, Schedulers, Load Balancer, Deployment, Persistant Volumes, Node Selectors, Cluster along with yaml files |
   | [Docker](https://github.com/rumeysakdogan/petclinic-microservices-with-db) | Java Microservices Project|
   | [Ansible & Chef ](https://github.com/rumeysakdogan/DevOps_Workshop/tree/master/hands-on) | Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven |
-  | [Linux-Workshop](https://github.com/rumeysakdogan/Linux-Workshop) | Linux |
+  | [Bash Scripting](https://github.com/rumeysakdogan/Linux-Workshop) | Linux |
   | [Terraform Projects](https://github.com/akash-p-07/Terraform.git) | This repo consist of mutliple terraform projects alongwith scripts in order to provision multiple services via Terraform. I have also added screenshots from so of my live projects |
   
 - Below are the repositories that I used during my SDET journey for `Java`, `Selenium`, `Rest API Testing`, `Cucumber Framework`, `Karate Framework`.
