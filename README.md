@@ -17,6 +17,7 @@
   | [Ansible & Chef ](https://github.com/akash-p-07/Ansible-Chef.git) | This repo consist of installations and different methods with examples which can be used for IaaC (Infrastructure as Configuration) and some examples for managing updates on large scale using Ansible or Chef  |
   | [Bash Scripts](https://github.com/akash-p-07/Bash-Script.git) | Basic components for bash scripting alongwith sample scripts for each type |
   | [Terraform Projects](https://github.com/akash-p-07/Terraform.git) | This repo consist of mutliple terraform projects alongwith scripts in order to provision multiple services via Terraform. I have also added screenshots from so of my live projects |
+  | [Bash Scripts](https://github.com/akash-p-07/Bash-Script.git) | Basic components for bash scripting alongwith sample scripts for each type |
   
 - Below are the repositories that I used during my SDET journey for `Java`, `Selenium`, `Rest API Testing`, `Cucumber Framework`, `Karate Framework`.
   
