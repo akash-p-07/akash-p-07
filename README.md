@@ -14,7 +14,7 @@
   | [AWS Components & Projects](https://github.com/rumeysakdogan/AWS/tree/master/hands-on) | Demos for different AWS Services including IAM, EC2, CFN, S3, EBS, ELB, ASG, AWS CLI, RDS, DynamoDB, Boto3, SNS, SQS, CloudWatch, Cognito, EKS, ECR, ECS, Fargate |
   | [Kubernetes](https://github.com/akash-p-07/Kubernetes.git) | K8s components and steps to set up components like Services, Pods, Schedulers, Load Balancer, Deployment, Persistant Volumes, Node Selectors, Cluster along with yaml files |
   | [Docker](https://github.com/rumeysakdogan/petclinic-microservices-with-db) | Java Microservices Project|
-  | [Ansible & Chef ](https://github.com/rumeysakdogan/DevOps_Workshop/tree/master/hands-on) | Terraform, Docker, Kubernetes, Ansible, Nexus, Prometheus, Grafana, Helm, Jenkins, Maven |
+  | [Ansible & Chef ](https://github.com/akash-p-07/Ansible-Chef.git) | This repo consist of installations and different methods with examples which can be used for IaaC (Infrastructure as Configuration) and some examples for managing updates on large scale using Ansible or Chef  |
   | [Bash Scripts](https://github.com/akash-p-07/Bash-Script.git) | Basic components for bash scripting alongwith sample scripts for each type |
   | [Terraform Projects](https://github.com/akash-p-07/Terraform.git) | This repo consist of mutliple terraform projects alongwith scripts in order to provision multiple services via Terraform. I have also added screenshots from so of my live projects |
   
