@@ -10,7 +10,7 @@
 
   | Repository Name | Description  |
   | ------ | ------ |
-  | [Jenkins CI CD Pipeline Project](https://github.com/akash-p-07/Jenkins-CI-CD-Pipeline.git) | This project consist of ultimate CI CD pipleline which includes tools like GitHub, Jenkis, Docker, Maven, Sonarqube, ArgoCD, Kubernetes(Miniqube/GKE). A Docker image is used as an agent for the pipeline which once triggered refers the Grovy script from GitHub and builds a image in DockerHub by completeing different satges, code quality can be tested with Sonarqube and with Helm and ArgoCD |
+  | [Jenkins CI CD Pipeline Project](https://github.com/akash-p-07/Jenkins-CI-CD-Pipeline.git) | This project consist of ultimate CI CD pipleline which includes tools like GitHub, Jenkis, Docker, Maven, Sonarqube, ArgoCD, Kubernetes(Miniqube/GKE). A Docker image is used as an agent for the pipeline which once triggered refers the Grovy script from GitHub and builds a image in DockerHub by completeing different stages, code quality can be tested with Sonarqube and with Helm and ArgoCD we can deploy the image in K8s cluster|
   | [AWS Components & Projects](https://github.com/akash-p-07/AWS.git) | Demos for different AWS Services including IAM, EC2, S3, EBS, ELB, ASG, AWS CLI, SNS, CloudWatch, AWS CodeSatr, EKS, AWS Code Pipeline |
   | [Kubernetes](https://github.com/akash-p-07/Kubernetes.git) | K8s components and steps to set up components like Services, Pods, Schedulers, Load Balancer, Deployment, Persistant Volumes, Node Selectors, Cluster along with yaml files |
   | [Docker](https://github.com/akash-p-07/Docker.git) | Docker, Docker Compose, Volumes, Docker Swarm with examples|
