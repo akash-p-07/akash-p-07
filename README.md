@@ -3,7 +3,7 @@
 - I am [Akash Pawar](https://www.linkedin.com/in/akashpawar/).
 
 - Brief intro about me:
-  * Education: `BTech` -->  `Sr Associate - DevOps Engineer` --> `MBA` --> 'CSM - Devops Engineer'
+  * Education: `BTech` -->  `Sr Associate - DevOps Engineer` --> `MBA` --> `CSM - Devops Engineer`
   * I love automation, mathematics, problem-solving and learning new skills and implement them to solve different challenges and optimize resources.
   
 - Below are the repositories that I used throughout my AWS/DevOps journey while learning different `AWS Services`, `Kubernetes`, `Docker`, `Terraform`, `Ansible`, `Helm`, `Jenkins`, `GitHub`, `Maven`, `ELK`, `Prometheus`, `Grafana`, `Linux`, `Python`, `Bash Scripting`.
